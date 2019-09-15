@@ -1,0 +1,7 @@
+---
+- name: Transfer and execute a script.
+  user: ubuntu
+  hosts: 127.0.0.1
+  tasks:
+     - name: Execute the script
+       command: sh jenkins.sh
