@@ -7,14 +7,14 @@ Prerequisites
     https://learn.hashicorp.com/terraform/getting-started/install.html
     
 # COMMANDS
-Clone the repository<br>
-  - git clone https://github.com/rambo777/Terraform-Ansible-Assignment.git<br>
-Install terraform module plugin<br>
-  - terraform init<br>
-Execute terraform configuration<br>
-  - terraform apply<br>
-Remove terraform results from aws<br>
-  - terraform destroy<br>
+  - Clone the repository :
+    git clone https://github.com/rambo777/Terraform-Ansible-Assignment.git
+  - Install terraform module plugin :
+    terraform init
+  - Execute terraform configuration :
+    terraform apply
+  - Remove terraform results from aws :
+    terraform destroy<br>
 
 Note - Jenkins end point will be displayed after the execution is completed in output variable.<br>
 ## Final Output will look like this
@@ -48,12 +48,12 @@ bastion-hostip = [
   https://www.terraform.io/docs/provisioners/file.html
   https://www.terraform.io/docs/provisioners/remote-exec.html
   
- -ANSIBLE BASICS<br>
+- ANSIBLE BASICS
   https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
   https://stackoverflow.com/questions/21160776/how-to-execute-a-shell-script-on-a-remote-server-using-ansible
   https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html
   https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
   https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
   
-  -JENKINS INSTALLATION
+- JENKINS INSTALLATION
   https://pkg.jenkins.io/debian-stable/
