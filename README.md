@@ -17,7 +17,7 @@ Remove terraform results from aws
   - terraform destroy
 
 Note - Jenkins end point will be displayed after the execution is completed in output variable.
-# Final Output will look like this
+## Final Output will look like this
   Apply complete! Resources: 24 added, 0 changed, 0 destroyed.
 ==================================================================================================================================
 Outputs:
