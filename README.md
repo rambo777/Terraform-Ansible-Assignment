@@ -35,8 +35,7 @@ bastion-hostip = [
   "18.206.221.94",
 ]<br>
 :<br>
-:<br> 
-###--------------------------------------------------------------------------------------------------------------------------------
+
 # REFERENCES 
 - TERRAFORM BASICS
   https://www.terraform.io/docs/cli-index.html
@@ -50,3 +49,11 @@ bastion-hostip = [
   https://www.terraform.io/docs/provisioners/remote-exec.html
   
  -ANSIBLE BASICS
+  https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
+  https://stackoverflow.com/questions/21160776/how-to-execute-a-shell-script-on-a-remote-server-using-ansible
+  https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html
+  https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
+  https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
+  
+  -JENKINS INSTALLATION
+  https://pkg.jenkins.io/debian-stable/
